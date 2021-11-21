@@ -1,0 +1,6 @@
+.masthead {
+    background-image: url(/src/image/apple-bg.jpeg);
+    background-size: cover;
+    background-position: center;
+    min-height: 94.5vh;
+}
